@@ -1,8 +1,8 @@
 ![UOG Logo](IMG-All/uoglogo.jpg)
 # Assignment 2
-
-# Standard Deadline Friday, 28 May 2021, 3:00 PM
-
+```diff
+- Standard Deadline Friday, 28 May 2021, 3:00 PM
+```
 
 ## 1. Tutor with responsibility for this Assessment 
 
